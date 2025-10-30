@@ -1,0 +1,3 @@
+lzaq.predicate_sample © 2025 by LaspberryAqua is licensed under MIT License
+
+This code is distributed under the MIT License, with the intent to cover software scripts and Minecraft data packs. You are free to adapt, remix, and share under the same license. Commercial use is prohibited.

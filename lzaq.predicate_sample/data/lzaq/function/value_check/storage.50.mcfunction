@@ -1,0 +1,2 @@
+execute if predicate lzaq:value_check/storage.50 run tellraw @s "log:storageのvalue_checkが示す値が50ちょうどであるため、条件を満たしています"
+execute unless predicate lzaq:value_check/storage.50 run tellraw @s "log:storageのvalue_checkが示す値が50でないため、条件を満たしていません"

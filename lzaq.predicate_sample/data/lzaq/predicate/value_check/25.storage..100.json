@@ -1,0 +1,12 @@
+{
+  "condition": "minecraft:value_check",
+  "value": 25,
+  "range": {
+    "min": {
+      "type": "minecraft:storage",
+      "storage": "lzaq:sample",
+      "path": "value_check"
+    },
+    "max": 100
+  }
+}

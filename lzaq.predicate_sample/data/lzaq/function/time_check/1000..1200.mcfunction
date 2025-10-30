@@ -1,0 +1,2 @@
+execute if predicate lzaq:time_check/1000..1200 run tellraw @s "log:マイクラ内時間が1000から1200の間に収まっているため、条件を満たしています"
+execute unless predicate lzaq:time_check/1000..1200 run tellraw @s "log:マイクラ内時間が1000から1200の間に収まっていないため、条件を満たしていません"

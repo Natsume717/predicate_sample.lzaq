@@ -1,0 +1,2 @@
+execute if predicate lzaq:value_check/25.storage..100 run tellraw @s "log:25という指定した値は、storageのvalue_checkが示す値から100までの範囲に存在するため、条件を満たしています"
+execute unless predicate lzaq:value_check/25.storage..100 run tellraw @s "log:25という指定した値は、storageのvalue_checkが示す値から100までの範囲に存在しないため、条件を満たしていません"

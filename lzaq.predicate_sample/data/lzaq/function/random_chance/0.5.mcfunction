@@ -1,0 +1,1 @@
+execute if predicate lzaq:random_chance/0.5 run give @s skeleton_skull 1
